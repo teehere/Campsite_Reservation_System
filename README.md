@@ -1,10 +1,5 @@
 # Camping Site or Cabin Reservation System
 
-## Table of Contents
-- [Objective](#Introduction)
-- [System_Requirements_Specification(SRS)](#System_Requirements_Specification(SRS))
-- [License](#License)
-
 ## Objective
 The objective is to develop an console-based application by using object-oriented concepts, such as inheritance, polymorphism, interfaces, file handling and exception handling. 
 
